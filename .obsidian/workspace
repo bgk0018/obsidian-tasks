@@ -7,8 +7,12 @@
         "id": "0a3b3bbbcf3f242a",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Landing.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -84,7 +88,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Landing.md"
+              }
             }
           },
           {
@@ -101,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Landing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Landing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
