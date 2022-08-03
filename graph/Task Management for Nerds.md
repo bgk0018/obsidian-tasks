@@ -57,4 +57,4 @@ And if Change is punishing, get out of obsidian and script it!
 
 ---
 
-# [Demo](obsidian://open?vault=task-management&file=graph%2FTask%20Management%20for%20Nerds%20Demo%20Script)
+# [Demo](obsidian://open?vault=obsidian-tasks&file=graph%2FTask%20Management%20for%20Nerds%20Demo%20Script)

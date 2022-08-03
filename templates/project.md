@@ -1,5 +1,5 @@
 ---
-tags: [project/{{title}}]
+tags: [project/]
 status: todo
 ---
 # {{title}}

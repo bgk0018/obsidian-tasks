@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0a3b3bbbcf3f242a",
+        "id": "2927c021b8967880",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Landing.md",
+            "file": "Super Important Meeting.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323
+    "width": 193.5
   },
   "right": {
     "id": "fe6123a6db89b836",
@@ -89,7 +89,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Landing.md"
+                "file": "Super Important Meeting.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Landing.md",
+                "file": "Super Important Meeting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,14 +124,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Landing.md",
+                "file": "Super Important Meeting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "365954621c826d98",
@@ -150,19 +149,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307
+    "width": 307,
+    "collapsed": true
   },
-  "active": "0a3b3bbbcf3f242a",
+  "active": "2927c021b8967880",
   "lastOpenFiles": [
-    "journal/2022-08-02.md",
-    "templates/daily-simple.md",
-    "kanban/Impossible Tasks.md",
-    "kanban/Untitled Kanban.md",
-    "graph/Obsidian Kanban.md",
     "graph/Task Management for Nerds Demo Script.md",
-    "graph/Task Management Plugins.md",
+    "graph/Task Management for Nerds.md",
     "Landing.md",
-    "Untitled.md",
-    "graph/Task Management for Nerds.md"
+    "journal/2022-W32.md",
+    "journal/2022-07-31.md",
+    "journal/2022-11-20.md",
+    "templates/moc.md",
+    "templates/meeting.md",
+    "templates/content.md",
+    "templates/company.md"
   ]
 }
