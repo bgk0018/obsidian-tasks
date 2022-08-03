@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "9d1f36055509e3b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a3b3bbbcf3f242a",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bf8e866d06fedef4",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e3d536e08aa58a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2406091cbe5a9375",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "990e514a409914d4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#daily",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bf780ffbb9a84aa3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 323
+  },
+  "right": {
+    "id": "fe6123a6db89b836",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2a55b76ea3fe35b",
+        "type": "tabs",
+        "dimension": 52.73972602739727,
+        "children": [
+          {
+            "id": "f0cd2b19779d15a4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d743aec2787eba5b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "15f4025c5bba6feb",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "447de96838c841de",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b69ee17f302c3d90",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "365954621c826d98",
+        "type": "tabs",
+        "dimension": 47.26027397260273,
+        "children": [
+          {
+            "id": "e8cc5ee2c3e59294",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 307
+  },
+  "active": "0a3b3bbbcf3f242a",
+  "lastOpenFiles": [
+    "journal/2022-08-02.md",
+    "templates/daily-simple.md",
+    "kanban/Impossible Tasks.md",
+    "kanban/Untitled Kanban.md",
+    "graph/Obsidian Kanban.md",
+    "graph/Task Management for Nerds Demo Script.md",
+    "graph/Task Management Plugins.md",
+    "Landing.md",
+    "Untitled.md",
+    "graph/Task Management for Nerds.md"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Task Management for Nerds",
+      "path": "graph/Task Management for Nerds.md"
+    },
+    {
+      "type": "file",
+      "title": "Task Management for Nerds Demo Script",
+      "path": "graph/Task Management for Nerds Demo Script.md"
+    }
+  ]
+}

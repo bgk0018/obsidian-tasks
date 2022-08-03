@@ -1,0 +1,1 @@
+Not covered, check out [here](https://github.com/zsviczian/Obsidian-GTD-plugin)!

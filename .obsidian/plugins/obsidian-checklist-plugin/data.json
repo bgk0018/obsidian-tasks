@@ -1,0 +1,24 @@
+{
+  "todoPageName": "task",
+  "showChecked": false,
+  "showAllTodos": false,
+  "autoRefresh": true,
+  "subGroups": false,
+  "groupBy": "page",
+  "sortDirectionItems": "new->old",
+  "sortDirectionGroups": "new->old",
+  "sortDirectionSubGroups": "new->old",
+  "includeFiles": "",
+  "lookAndFeel": "compact",
+  "_collapsedSections": [
+    "templates/person.md",
+    "templates/one-on-one.md",
+    "templates/project.md",
+    "journal/2022-07-27.md",
+    "graph/Eric Sowell.md",
+    "journal/2022-07-31.md",
+    "projects/2022 Code Launch DFW Campaign.md",
+    "projects/Civic Honda Maintenance Schedule.md"
+  ],
+  "_hiddenTags": []
+}
