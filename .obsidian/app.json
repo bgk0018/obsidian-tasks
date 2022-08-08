@@ -3,5 +3,8 @@
   "spellcheck": true,
   "attachmentFolderPath": "assets",
   "showUnsupportedFiles": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "graph",
+  "readableLineLength": false
 }

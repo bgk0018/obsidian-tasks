@@ -9,7 +9,6 @@ Demo Script: [[Task Management for Nerds Demo Script]]
 Make sure to have these plugins:
 
 - Dataview Javascript queries should be on
-- Checklist tag should be #task 
 - Weekly view should be turned on on the Calendar
 - Set Periodic Notes Daily Template to templates/daily.md and weekly to templates/weekly.md
 

@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "2927c021b8967880",
+        "id": "6f0f57d44a03e0b1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Super Important Meeting.md",
+            "file": "graph/Task Management for Nerds Demo Script.md",
             "mode": "source",
+            "backlinks": true,
             "source": false
           }
         }
@@ -61,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 193.5
+    "width": 201.5
   },
   "right": {
     "id": "fe6123a6db89b836",
@@ -89,16 +90,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Super Important Meeting.md"
+                "file": "graph/Task Management for Nerds Demo Script.md"
               }
-            }
-          },
-          {
-            "id": "15f4025c5bba6feb",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
             }
           },
           {
@@ -107,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Super Important Meeting.md",
+                "file": "graph/Task Management for Nerds Demo Script.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,13 +117,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Super Important Meeting.md",
+                "file": "graph/Task Management for Nerds Demo Script.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "365954621c826d98",
@@ -149,20 +143,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307,
-    "collapsed": true
+    "width": 307
   },
-  "active": "2927c021b8967880",
+  "active": "6f0f57d44a03e0b1",
   "lastOpenFiles": [
-    "graph/Task Management for Nerds Demo Script.md",
-    "graph/Task Management for Nerds.md",
     "Landing.md",
-    "journal/2022-W32.md",
-    "journal/2022-07-31.md",
-    "journal/2022-11-20.md",
-    "templates/moc.md",
-    "templates/meeting.md",
-    "templates/content.md",
-    "templates/company.md"
+    "journal/2022-08-09.md",
+    "graph/New Project.md",
+    "journal/2022-08-08.md",
+    "projects/Civic Honda Maintenance Schedule.md",
+    "projects/2022 Code Launch DFW Campaign.md",
+    "kanban/Impossible Tasks.md",
+    "journal/2022-08-03.md",
+    "journal/2022-08-02.md",
+    "journal/2022-W32.md"
   ]
 }

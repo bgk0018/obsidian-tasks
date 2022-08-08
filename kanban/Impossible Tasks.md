@@ -4,15 +4,16 @@ kanban-plugin: basic
 
 ---
 
-## To Do
+## ✉To Do
 
 - [ ] Take photographs of invisible object
-- [ ] Beat entropy in a wrestling match
 - [ ] [[Remember what I had for breakfast]]
+- [ ] Beat entropy in a wrestling match
 
 
 ## Doing
 
+- [ ] Foobarba
 - [ ] Drink the entire ocean
 
 
